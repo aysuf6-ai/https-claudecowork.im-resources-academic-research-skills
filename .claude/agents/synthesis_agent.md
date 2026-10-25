@@ -1,0 +1,1 @@
+../../agents/synthesis_agent.md
